@@ -1,16 +1,21 @@
-## Hi there 👋
+# Abhishek Adurti
 
-<!--
-**AbhishekAdurti2000/AbhishekAdurti2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm an Information Systems Management graduate student at Carnegie Mellon University, interested in Data, AI, and Product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find some of my projects and experiments!
+
+## About Me
+
+- 🌍 Pittsburgh, Pennsylvania
+- 🎓 MS Information Systems Management at CMU
+- 🛠️ Building data pipelines, RAG and agentic systems
+- 🌱 Learning where AI actually fits into a business
+
+## Contact
+
+- 📧 Email: [aadurti@andrew.cmu.edu](mailto:aadurti@andrew.cmu.edu)
+- 💼 LinkedIn: [www.linkedin.com/in/abhishekadurti/](https://www.linkedin.com/in/abhishekadurti/)
+
+Always up for a good conversation about data, AI, or what makes a product worth building!
